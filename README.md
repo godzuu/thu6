@@ -45,3 +45,7 @@ Tôi tin rằng mỗi ngày là một cơ hội mới để học hỏi và phá
 
 3. **Thiết Lập Nền Tảng Web**
    - Tự xây dựng từ đầu: Nếu bạn có kinh nghiệm với HTML, CSS, và JavaScript, bạn có thể tự tạo website từ đầu.
+## VT
+## VT
+## VT
+## NVS s
